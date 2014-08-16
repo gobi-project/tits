@@ -3,7 +3,7 @@
 # Installation
 
 ```
-gem tits, :git => 'git@gitlab.gobi.tzi.de:gobi/gem-tits.git'
+gem tits, git: 'https://github.com/gobi-project/tits.git'
 ```
 
 # Einbindung

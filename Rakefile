@@ -18,7 +18,7 @@ end
 
 desc "Install gem"
 task :install do
-  sh "gem install ./tits-0.0.2.pre.gem"
+  sh "gem install ./tits-*.gem"
 end
 
 desc "Uninstall gem"

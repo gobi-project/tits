@@ -8,6 +8,9 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+*.sublime-workspace
+.idea/
+tags
 
 ## Specific to RubyMotion:
 .dat*
@@ -19,6 +22,7 @@ build/
 /_yardoc/
 /doc/
 /rdoc/
+.yardopts
 
 ## Environment normalisation:
 /.bundle/
@@ -26,7 +30,7 @@ build/
 
 # for a library or gem, you might want to ignore these files since the code is
 # intended to run in multiple environments; otherwise, check them in:
-# Gemfile.lock
+Gemfile.lock
 # .ruby-version
 # .ruby-gemset
 

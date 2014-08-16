@@ -1,0 +1,19 @@
+influxdb:
+  production:
+    db_name: production
+    db_user: root
+    db_pw: root
+    host: localhost
+    port: 8086
+  development:
+    db_name: development
+    db_user: root
+    db_pw: root
+    host: localhost
+    port: 8086
+  test:
+    db_name: test
+    db_user: root
+    db_pw: root
+    host: localhost
+    port: 8086
